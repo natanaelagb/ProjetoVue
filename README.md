@@ -9,6 +9,10 @@ npm install
 ```
 npm run serve
 ```
+### Compiles and start fake api for development
+```
+npm run backend
+```
 
 ### Compiles and minifies for production
 ```
